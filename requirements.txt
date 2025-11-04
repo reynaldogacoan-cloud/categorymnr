@@ -1,0 +1,5 @@
+gspread
+pandas
+scikit-learn
+nltk
+google-auth
